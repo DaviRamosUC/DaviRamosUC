@@ -28,6 +28,7 @@ I'm learning at the moment **Android SDK**
 [![Gmail Badge](https://img.shields.io/badge/-davi.lima@ucsal.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi.lima@ucsal.edu.br)](mailto:davi.lima@ucsal.edu.br)
 
 ## 📫 Others GitRepo
+#### Here you will find my projects associated with the university
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://https://www.gitlab.com/DaviRamosUC/)](https://gitlab.com/DaviRamosUC/)
 
 
