@@ -24,7 +24,12 @@ I'm learning at the moment **Android SDK**
 
 [![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
 [![Instagram Badge](https://img.shields.io/badge/-DaviRamos-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hellowdavi/?hl=pt-br)](https://www.instagram.com/hellowdavi/)
-[![Gmail Badge](https://img.shields.io/badge/-davi.lima@ucsal.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:davi.lima@ucsal.edu.br)
+
+[![Gmail Badge](https://img.shields.io/badge/-davi.lima@ucsal.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi.lima@ucsal.edu.br)](mailto:davi.lima@ucsal.edu.br)
+
+## 📫 Others GitRepo
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://https://www.gitlab.com/DaviRamosUC/)](https://gitlab.com/DaviRamosUC/)
+
 
 ## 🚀💻 Technologies & Tools
 
@@ -38,6 +43,8 @@ I'm learning at the moment **Android SDK**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://https://www.gitlab.com/DaviRamosUC/)](https://gitlab.com/DaviRamosUC/)
+
 <!--![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
