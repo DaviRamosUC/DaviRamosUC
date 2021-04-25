@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Davi</h1>
-<p align = "justify">Back-end Developer, Coffee lover, Java, Kotlin and C# fan, Performance curious. Currently in love with Android Programming.</p>
+<p align = "justify">Back-end Developer, Coffee lover, Java, Kotlin and C# fan, Performance curious. Currently in love with Java Programming.</p>
 
-I'm learning at the moment **Android SDK**
+I'm learning at the moment **Spring projects**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
@@ -45,6 +45,8 @@ I'm learning at the moment **Android SDK**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://https://www.gitlab.com/DaviRamosUC/)](https://gitlab.com/DaviRamosUC/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 <!--![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -53,8 +55,8 @@ I'm learning at the moment **Android SDK**
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
