@@ -61,7 +61,6 @@ I'm learning at the moment **Spring projects**
 <!--!![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white)-->
 <!--!![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
 -->
-<!---->
 
 <!--![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
@@ -72,7 +71,7 @@ I'm learning at the moment **Spring projects**
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)-->
 
 
 ## ⚡ GitHub Stats
