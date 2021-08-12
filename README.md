@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Davi</h1>
-<p align = "justify">Back-end Developer, Coffee lover, Java, Kotlin and C# fan, Performance curious. Currently in love with Java Programming.</p>
+<p align = "justify">Developer, Coffee lover, Java, Javascript and Angular fan, Performance curious. Currently in love with Java Programming.</p>
 
-I'm learning at the moment **Spring projects**
+- 🌱 I’m currently learning **React.js**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
