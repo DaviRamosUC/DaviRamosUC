@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
-[![Instagram Badge](https://img.shields.io/badge/-DaviRamos-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/hellowdavi/?hl=pt-br)](https://www.instagram.com/hellowdavi/)
-
 [![Gmail Badge](https://img.shields.io/badge/-davi.lima@ucsal.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi.lima@ucsal.edu.br)](mailto:davi.lima@ucsal.edu.br)
 
 ## 📫 Others GitRepo
@@ -45,7 +43,6 @@ Here are some ideas to get you started:
 
 ## 📱 Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;
