@@ -1,77 +1,27 @@
-<!--
-**DaviRamosUC/DaviRamosUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+I'm a software development student who loves the vastness of technology. Currently in love with Java Programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>• Focused on **Javascript** stack
+<br/>• Enthusiast about the best **web & mobile** technologies
+<br/>• I **love to talk about**: Programming, Science, Music
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=DaviRamosUC" alt="DaviRamosUC" /></p>
+**Languages**:</br>
+Javascript • Typescript
 
+**Front end skills**:</br>
+HTML5 • CSS3 • SASS • ReactJS • Angular • Bootstrap • Material UI • Webpack
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Davi</h1>
-<p align = "justify">Developer, Coffee lover, Java, Javascript and Angular fan, Performance curious. Currently in love with Java Programming.</p>
+**Back end skills**:<br/>
+Java • Nodejs • Express • Rest APIs  • PostgreSQL • SQLite • Sequelize • JWT • MVC
 
-- 🌱 I’m currently learning **Angular 2+ and SpringFramework**
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
-[![Gmail Badge](https://img.shields.io/badge/-davi.lima@ucsal.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi.lima@ucsal.edu.br)](mailto:davi.lima@ucsal.edu.br)
-
-## 📫 Others GitRepo
-#### Here you will find my projects associated with the university
-[![GitLab Badge](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://https://www.gitlab.com/DaviRamosUC/)](https://gitlab.com/DaviRamosUC/)
-
-
-## 🚀💻 Technologies & Tools
-
-### 👩‍💻 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-
-
-## 📱 Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;
-![Express](https://img.shields.io/badge/-express?style=flat-square&logo=express)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)&nbsp;
-
-### 🐘 Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-
-
-<!--!![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white)-->
-<!--!![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)
--->
-
-<!--![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)-->
-
+---
 
 ## ⚡ GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=DaviRamosUC&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRamosUC&hide=TeX&layout=compact)
+
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
+[![Gmail Badge](https://img.shields.io/badge/-davi.lima@ucsal.edu.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davi.lima@ucsal.edu.br)](mailto:davi.lima@ucsal.edu.br)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hellowdavi)](https://instagram.com/hellowdavi)
