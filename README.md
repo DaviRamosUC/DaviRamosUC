@@ -2,12 +2,12 @@
 
 I'm a software development student who loves the vastness of technology. Currently in love with Java Programming.
 
-<br/>• Focused on **Javascript** stack
+<br/>• Focused on **Mobile** stack
 <br/>• Enthusiast about the best **web & mobile** technologies
 <br/>• I **love to talk about**: Programming, Science, Music
 
 **Languages**:</br>
-Javascript • Typescript
+Javascript • Typescript • Dart
 
 **Front end skills**:</br>
 HTML5 • CSS3 • SASS • ReactJS • Angular • Bootstrap • Material UI • Webpack
