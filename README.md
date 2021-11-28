@@ -2,18 +2,18 @@
 
 I'm a software development student who loves the vastness of technology. Currently in love with Java Programming.
 
-<br/>• Focused on **Mobile** stack
-<br/>• Enthusiast about the best **web & mobile** technologies
+<br/>• Focused on **FullStack** stack
+<br/>• Enthusiast about the best **Web/Back & mobile** technologies
 <br/>• I **love to talk about**: Programming, Science, Music
 
 **Languages**:</br>
-Javascript • Typescript • Dart
+Javascript • Typescript • Dart • Java • HTML5 • CSS3
 
 **Front end skills**:</br>
-HTML5 • CSS3 • SASS • ReactJS • Angular • Bootstrap • Material UI • Webpack
+ReactJS • Angular • Bootstrap • Material UI • Webpack
 
 **Back end skills**:<br/>
-Java • Nodejs • Express • Rest APIs  • PostgreSQL • SQLite • Sequelize • JWT • MVC
+Nodejs • Express • Rest APIs  • PostgreSQL • SQLite • Sequelize • JWT • MVC
 
 ---
 
