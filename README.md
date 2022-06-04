@@ -1,4 +1,4 @@
-## Hi there! Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there! Welcome 💻
 
 I'm a software development student who loves the vastness of technology. Currently in love with Java Programming.
 
