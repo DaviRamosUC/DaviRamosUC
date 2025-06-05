@@ -39,7 +39,6 @@ Python • Java • PHP • Javascript • Typescript
 ---
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DaviRamosUC&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviRamosUC&hide=TeX&layout=compact)
 
 <br/>[![Linkedin Badge](https://img.shields.io/badge/-DaviRamos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviramoslima/)](https://www.linkedin.com/in/daviramoslima/)
